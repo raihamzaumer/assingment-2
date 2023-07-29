@@ -1,0 +1,37 @@
+h1{
+    font-family: cursive;
+    font-size:50px;
+    text-align: center;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    
+}
+nav ul li{
+    list-style: none;
+    margin: 4px;
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+    font-family: sans-serif;
+}
+div{
+    margin-left: 35%;
+}
+img{
+    height: 100px;
+    width: 150px;
+    display: inline;
+    justify-content: center;
+}
+button{
+    margin-left: 45%;
+}
+footer{
+    text-align: center;
+
+}
+    
